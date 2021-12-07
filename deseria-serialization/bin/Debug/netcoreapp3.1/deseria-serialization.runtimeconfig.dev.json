@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NINDYASAFF\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NINDYASAFF\\.nuget\\packages"
+    ]
+  }
+}

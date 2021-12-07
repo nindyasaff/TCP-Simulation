@@ -1,0 +1,13 @@
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\bin\Debug\netcoreapp3.1\deseria-serialization.exe
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\bin\Debug\netcoreapp3.1\deseria-serialization.deps.json
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\bin\Debug\netcoreapp3.1\deseria-serialization.runtimeconfig.json
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\bin\Debug\netcoreapp3.1\deseria-serialization.runtimeconfig.dev.json
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\bin\Debug\netcoreapp3.1\deseria-serialization.dll
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\bin\Debug\netcoreapp3.1\deseria-serialization.pdb
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.csprojAssemblyReference.cache
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.AssemblyInfoInputs.cache
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.AssemblyInfo.cs
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.csproj.CoreCompileInputs.cache
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.dll
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.pdb
+C:\Users\NINDYASAFF\Documents\deserialization-serialization\deseria-serialization\obj\Debug\netcoreapp3.1\deseria-serialization.genruntimeconfig.cache
